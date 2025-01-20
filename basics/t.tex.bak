@@ -1,0 +1,15 @@
+\documentclass[11pt]{article}
+
+\begin{document}
+
+	\begin{comment}
+    		Helssssssslo, mmmmmwssssorld!\\
+    
+   		A rectangle have lenght of $(x+1)$ and $(x+3)$
+	\end{comment}
+    Helssssssslo, mmmmmwssssorld!\\
+    
+    A rectangle have lenght of $(x+1)$ and $(x+3)$
+
+
+\end{document}
